@@ -18,7 +18,7 @@ Make sure that your ruby gems are valid with what appears in gem_list, Gemfile i
     showoff serve
 
 
-Then point your web browser at localhost:5000
+Then point your web browser at localhost:9090
 
 
 
