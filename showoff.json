@@ -1,7 +1,7 @@
 {
   "name": "Stewardship of OSS",
   "sections": [
-  "0_title.md",
+  "00_title.md",
   "0_agenda.md",
   "1_intro.md",
   "1_opensource.md",
