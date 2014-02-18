@@ -10,4 +10,15 @@ Videos:
 None yet, add yours!
 
 
+Running
+=======
+
+Make sure that your ruby gems are valid with what appears in gem_list, Gemfile is lies. Then
+
+    showoff serve
+
+
+Then point your web browser at localhost:5000
+
+
 
