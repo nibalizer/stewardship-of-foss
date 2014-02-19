@@ -25,6 +25,7 @@
 * Puppet and Puppet modules
 * OpsSchool
 * Openstack
+* Ubuntu
 * PuppetBoard
 
 
