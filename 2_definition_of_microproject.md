@@ -33,7 +33,7 @@
 
 #Examples of open source microprojects
 
-[puppetboard](https://github.com/nibalizer/puppet-module-puppetboard)
+[puppetboard puppet module](https://github.com/nibalizer/puppet-module-puppetboard)
 
 !SLIDE
 
