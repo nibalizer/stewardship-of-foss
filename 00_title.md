@@ -10,6 +10,8 @@
 
 ###UTi Worldwide Inc. & PSU CAT
 
+#### @nibalizer & @blkperl
+
 !SLIDE opener
 
 # Books
