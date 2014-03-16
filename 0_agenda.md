@@ -14,8 +14,3 @@
 * What is open source
 * Different Licenses
 
-!SLIDE
-
-# Bart
-
-* A huge chunk of this is straight out of Barts Open Source class

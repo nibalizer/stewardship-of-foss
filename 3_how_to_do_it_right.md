@@ -3,8 +3,12 @@
 # How to do it right
 
 * Use github for main development
-* Use travis for whatever testing you have
 
+!SLIDE
+
+# How to do it right
+
+* Write a good readme
 
 
 !SLIDE
@@ -19,12 +23,6 @@
 # How to do it right
 
 * Automate everything you can
-
-!SLIDE
-
-# How to do it right
-
-* Write a good readme
 
 
 !SLIDE

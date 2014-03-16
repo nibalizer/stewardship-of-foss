@@ -48,10 +48,5 @@
 
 [chart js](https://github.com/nnnick/Chart.js/)
 
-!SLIDE
-
-#Examples of open source microprojects
-
-[tbootstrap](https://github.com/twbs/bootstrap)
 
 

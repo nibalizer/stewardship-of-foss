@@ -8,9 +8,9 @@
 
 ##Spencer Krum & William Van Hevelingen
 
-###UTi Worldwide Inc. & PSU CAT
+###UTi Worldwide Inc. & Portland State Univ.
 
-#### @nibalizer & @blkperl
+### @nibalizer & @blkperl
 
 !SLIDE opener
 
